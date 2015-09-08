@@ -1,0 +1,110 @@
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\obj\Debug\CrazyNails.csprojResolveAssemblyReference.cache
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\CrazyNails.dll.config
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\CrazyNails.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\CrazyNails.pdb
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Antlr3.Runtime.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\EntityFramework.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\EntityFramework.SqlServer.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Microsoft.Owin.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Newtonsoft.Json.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Owin.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\System.Web.Helpers.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\System.Web.Mvc.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\System.Web.Optimization.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\System.Web.Razor.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\System.Web.WebPages.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\System.Web.WebPages.Razor.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\WebGrease.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\System.Web.Helpers.xml
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\System.Web.Mvc.xml
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\System.Web.Optimization.xml
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\System.Web.Razor.xml
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\System.Web.WebPages.xml
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\System.Web.WebPages.Razor.xml
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Antlr3.Runtime.pdb
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Newtonsoft.Json.xml
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\EntityFramework.xml
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\EntityFramework.SqlServer.xml
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Microsoft.Owin.xml
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.xml
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\obj\Debug\CrazyNails.dll
+C:\Users\aMigo\Documents\Visual Studio 2013\Projects\雷技\CrazyNails\CrazyNails\obj\Debug\CrazyNails.pdb
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\CrazyNails.dll.config
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\CrazyNails.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\CrazyNails.pdb
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Antlr3.Runtime.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\EntityFramework.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\EntityFramework.SqlServer.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Microsoft.Owin.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Newtonsoft.Json.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Owin.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\System.Web.Helpers.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\System.Web.Mvc.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\System.Web.Optimization.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\System.Web.Razor.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\System.Web.WebPages.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\System.Web.WebPages.Razor.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\WebGrease.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\EntityFramework.xml
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\EntityFramework.SqlServer.xml
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\System.Web.Helpers.xml
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\System.Web.Mvc.xml
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\System.Web.Optimization.xml
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\System.Web.Razor.xml
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\System.Web.WebPages.xml
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\System.Web.WebPages.Razor.xml
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Antlr3.Runtime.pdb
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Newtonsoft.Json.xml
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Microsoft.Owin.xml
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.xml
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\obj\Debug\CrazyNails.csprojResolveAssemblyReference.cache
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\obj\Debug\CrazyNails.dll
+C:\Users\aMigo\Documents\專案開發\瘋狂美甲師\Code\CrazyNails\CrazyNails\obj\Debug\CrazyNails.pdb
