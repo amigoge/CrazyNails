@@ -14,7 +14,7 @@ namespace CrazyNails.DAL
 			var NailSpecialist = new List<NailSpecialist>			// 建立美甲師資料
 			{
 				new NailSpecialist{
-					Name="Karen",Phone="0960-592808",Email="damigo0@yahoo.com.tw"
+					Name="Karen",Phone="0960-592808",Email="damigo0@yahoo.com.tw",Passwrod="crazy123"
 				}
 			};
 			NailSpecialist.ForEach(s => context.NailSpecialists.Add(s));
@@ -144,6 +144,44 @@ namespace CrazyNails.DAL
 			};
 			Client.ForEach(s => context.Clients.Add(s));
 			context.SaveChanges();
+
+			var transactions = new List<Transaction> 
+			{
+				new Transaction
+				{
+					Date=DateTime.Now,
+					Amount=0,
+					TrafficId=context.Traffics.Where(s=>s.TrafficWay=="機車").Single().Id,
+					ClientId=context.Clients.Where(s=>s.Name=="金貝貝").Single().Id,
+				},
+			};
+
+			var maintain = new Maintain 
+			{
+				MaintainCategoryId=context.MaintainCategories.Where(s=>s.Name=="基礎保養").Single().Id,
+				Beeswax=true,
+				Price=400,
+			};
+
+			var clean = new Clean 
+			{
+				CleanCategoryId=context.CleanCategories.Where(s=>s.Name=="本店卸甲").Single().Id,
+				Price=300,
+			};
+
+			var gel = new Gel
+			{
+				GelCategoryId=context.GelCategories.Where(s=>s.Name=="單色").Single().Id,
+				StyleId=context.Styles.Where(s=>s.Name=="手繪").Single().Id,
+				Extension=true,
+				Price=1000,
+			};
+
+			var adornment = new Adornment 
+			{
+				AdornmentCategoryId=context.AdornmentCategories.Where(s=>s.Name=="粉雕").Single().Id,
+				Name="蝴蝶結",				
+			};
 
 
 		}
