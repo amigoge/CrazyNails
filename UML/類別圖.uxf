@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="13.3">
+  <zoom_level>8</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>224</x>
+      <y>152</y>
+      <w>112</w>
+      <h>144</h>
+    </coordinates>
+    <panel_attributes>Client
+bg=green
+--
+ID
+Name
+Phone
+Birthday
+BuildDate
+
+SourceId
+SpecialistId
+AreaId
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>240</x>
+      <y>32</y>
+      <w>80</w>
+      <h>64</h>
+    </coordinates>
+    <panel_attributes>Source
+--
+Id
+SourceName</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>272</x>
+      <y>88</y>
+      <w>24</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=n
+m2=1</panel_attributes>
+    <additional_attributes>10.0;80.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>560</x>
+      <y>128</y>
+      <w>112</w>
+      <h>96</h>
+    </coordinates>
+    <panel_attributes>Clean
+bg=pink
+--
+ID
+Price
+
+CleanCategoryId
+TransactionId</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>288</x>
+      <y>288</y>
+      <w>104</w>
+      <h>104</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=1
+m2=n</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;100.0;110.0;100.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>240</x>
+      <y>416</y>
+      <w>112</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>Traffic
+--
+Id
+Name</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>56</x>
+      <y>184</y>
+      <w>112</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>NailSpecialist
+bg=gray
+--
+ID
+Name
+Phone
+Email
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>160</x>
+      <y>232</y>
+      <w>80</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=1
+m2=n</panel_attributes>
+    <additional_attributes>10.0;10.0;80.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>376</x>
+      <y>264</y>
+      <w>112</w>
+      <h>144</h>
+    </coordinates>
+    <panel_attributes>Transaction
+bg=blue
+--
+Id
+Date
+Amount
+
+TrafficId
+ClientId
+CleanId?
+NailArtId?
+MaintainId?</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>424</x>
+      <y>216</y>
+      <w>224</w>
+      <h>64</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=1
+m2=0..1</panel_attributes>
+    <additional_attributes>10.0;60.0;10.0;30.0;240.0;30.0;240.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>288</x>
+      <y>384</y>
+      <w>104</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=1
+m2=n</panel_attributes>
+    <additional_attributes>110.0;10.0;10.0;10.0;10.0;40.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>680</x>
+      <y>184</y>
+      <w>112</w>
+      <h>88</h>
+    </coordinates>
+    <panel_attributes>Gel
+--
+Extension
+
+GelCategoryId
+gelcategorys</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>688</x>
+      <y>488</y>
+      <w>112</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>Crystal
+--
+CrystalCategoryId
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>560</x>
+      <y>440</y>
+      <w>112</w>
+      <h>104</h>
+    </coordinates>
+    <panel_attributes>Maintain
+bg=pink
+--
+ID
+Beeswax
+Price
+
+CrystalCategoryId
+TransactionId</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>424</x>
+      <y>400</y>
+      <w>224</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=1
+m2=0..1</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;30.0;240.0;30.0;240.0;50.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>680</x>
+      <y>72</y>
+      <w>112</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>GelCategory
+--
+ID
+Name</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>688</x>
+      <y>592</y>
+      <w>112</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>CrystalCategory
+--
+ID
+Name</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>728</x>
+      <y>120</y>
+      <w>24</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=n
+m2=1</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>736</x>
+      <y>528</y>
+      <w>24</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=n
+m2=1</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>808</x>
+      <y>224</y>
+      <w>120</w>
+      <h>88</h>
+    </coordinates>
+    <panel_attributes>Adornment
+bg=orange
+--
+ID
+
+AdornmentCategoryId
+NailArtId
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>560</x>
+      <y>16</y>
+      <w>112</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>CleanCategory
+--
+ID
+Name</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>608</x>
+      <y>64</y>
+      <w>24</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=n
+m2=1</panel_attributes>
+    <additional_attributes>10.0;80.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>560</x>
+      <y>600</y>
+      <w>112</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>MaintainCategory
+--
+ID
+Name</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>608</x>
+      <y>536</y>
+      <w>24</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=n
+m2=1</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>560</x>
+      <y>304</y>
+      <w>112</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>NailArt
+bg=pink
+--
+ID
+Price
+
+TransactionId</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>480</x>
+      <y>352</y>
+      <w>96</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=1
+m2=0..1</panel_attributes>
+    <additional_attributes>10.0;10.0;100.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>664</x>
+      <y>272</y>
+      <w>160</w>
+      <h>64</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=1
+m2=0..n</panel_attributes>
+    <additional_attributes>10.0;50.0;150.0;50.0;150.0;10.0;180.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>808</x>
+      <y>320</y>
+      <w>120</w>
+      <h>104</h>
+    </coordinates>
+    <panel_attributes>Fix
+bg=orange
+--
+ID
+Date
+Price
+Context
+
+NailArtId
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>976</x>
+      <y>256</y>
+      <w>112</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>AdornmentCategory
+--
+ID
+Name</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>920</x>
+      <y>280</y>
+      <w>72</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=n
+m2=1</panel_attributes>
+    <additional_attributes>10.0;10.0;70.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>664</x>
+      <y>336</y>
+      <w>160</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=1
+m2=0..n</panel_attributes>
+    <additional_attributes>10.0;10.0;180.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>608</x>
+      <y>376</y>
+      <w>152</w>
+      <h>128</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;40.0;170.0;40.0;170.0;140.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>608</x>
+      <y>264</y>
+      <w>144</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;50.0;10.0;20.0;160.0;20.0;160.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>120</x>
+      <y>368</y>
+      <w>112</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>Area
+--
+Id
+Name</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>224</x>
+      <y>288</y>
+      <w>48</w>
+      <h>128</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=1
+m2=n
+</panel_attributes>
+    <additional_attributes>40.0;10.0;40.0;130.0;10.0;130.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>808</x>
+      <y>432</y>
+      <w>120</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>Style
+--
+ID
+Name</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>664</x>
+      <y>360</y>
+      <w>160</w>
+      <h>128</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=n
+m2=1</panel_attributes>
+    <additional_attributes>10.0;10.0;150.0;10.0;150.0;130.0;180.0;130.0</additional_attributes>
+  </element>
+</diagram>
