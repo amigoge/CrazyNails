@@ -14,7 +14,7 @@ namespace CrazyNails.DAL
 			HasKey(p => p.Id);
 
 			HasRequired(p => p.Style)			// 描述與風格的關係
-				.WithMany()
+				.WithMany(s=>s.NailArts)
 				.HasForeignKey(p => p.StyleId)
 				.WillCascadeOnDelete(false);
 

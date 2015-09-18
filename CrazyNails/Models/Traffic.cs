@@ -12,5 +12,7 @@ namespace CrazyNails.Models
 
 		[StringLength(20)]
 		public string TrafficWay { get; set; }
+
+		public virtual ICollection<Transaction> transactions { get; set; }
 	}
 }

@@ -145,44 +145,70 @@ namespace CrazyNails.DAL
 			Client.ForEach(s => context.Clients.Add(s));
 			context.SaveChanges();
 
-			var transactions = new List<Transaction> 
+			// 建立交易紀錄
+			var transaction = new Transaction
 			{
-				new Transaction
-				{
-					Date=DateTime.Now,
-					Amount=0,
-					TrafficId=context.Traffics.Where(s=>s.TrafficWay=="機車").Single().Id,
-					ClientId=context.Clients.Where(s=>s.Name=="金貝貝").Single().Id,
-				},
+				Date=DateTime.Now,
+				Amount=0,
+				TrafficId=context.Traffics.Where(s=>s.TrafficWay=="機車").Single().Id,
+				ClientId=context.Clients.Where(s=>s.Name=="金貝貝").Single().Id,
 			};
+			context.Transactions.Add(transaction);
+			context.SaveChanges();
 
+			// 建立交易紀錄中的保養=record
 			var maintain = new Maintain 
 			{
 				MaintainCategoryId=context.MaintainCategories.Where(s=>s.Name=="基礎保養").Single().Id,
 				Beeswax=true,
 				Price=400,
+				Transaction=transaction,
 			};
+			context.Maintains.Add(maintain);
+			context.SaveChanges();
 
+			// 建立交易紀錄中的卸甲record
 			var clean = new Clean 
 			{
 				CleanCategoryId=context.CleanCategories.Where(s=>s.Name=="本店卸甲").Single().Id,
 				Price=300,
+				Transaction=transaction,
 			};
+			context.Cleans.Add(clean);
+			context.SaveChanges();
 
+			// 建立交易紀錄中的彩繪
 			var gel = new Gel
 			{
 				GelCategoryId=context.GelCategories.Where(s=>s.Name=="單色").Single().Id,
 				StyleId=context.Styles.Where(s=>s.Name=="手繪").Single().Id,
 				Extension=true,
 				Price=1000,
+				Transaction=transaction,
 			};
+			context.Gels.Add(gel);
+			context.SaveChanges();
 
+			// 建立交易紀錄中的彩繪的裝飾
 			var adornment = new Adornment 
 			{
 				AdornmentCategoryId=context.AdornmentCategories.Where(s=>s.Name=="粉雕").Single().Id,
-				Name="蝴蝶結",				
+				Name="蝴蝶結",
+				NailArt=gel,
 			};
+			context.Adornments.Add(adornment);
+			context.SaveChanges();
 
+			// 建立交易紀錄中的彩繪的修補
+			var fix = new Fix 
+			{ 
+				Date=DateTime.Now,
+				Price=300,
+				Context="手48；腳2",
+				Nailart=gel,
+			};
+			context.Fixes.Add(fix);
+			context.SaveChanges();
 
 		}
 	}

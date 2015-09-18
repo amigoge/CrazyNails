@@ -22,11 +22,11 @@ namespace CrazyNails.DAL
 				.WillCascadeOnDelete(false);
 
 			HasOptional(p => p.Maintain)		// 描述與保養服務的關係
-				.WithRequired(o => o.Transaction)
+				.WithRequired(p => p.Transaction)
 				.WillCascadeOnDelete(false);
 
-			HasRequired(p => p.Traffics)		// 描述與交通方式的關係
-				.WithMany()
+			HasRequired(p => p.Traffic)			// 描述與交通方式的關係
+				.WithMany(s=>s.transactions)
 				.HasForeignKey(p => p.TrafficId)
 				.WillCascadeOnDelete(false);
 

@@ -1,4 +1,5 @@
-﻿using CrazyNails.Filter;
+﻿using CrazyNails.DAL;
+using CrazyNails.Filter;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,6 +14,8 @@ namespace CrazyNails.Controllers
 		[SessionAuthenticate]
         public ActionResult Index()
         {
+			var db = new Context();
+			var a = db.NailSpecialists.ToList();
             return View();
         }
 
